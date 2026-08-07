@@ -8,7 +8,7 @@
 
 ---
 
-## 🤖 MATOSO AI CORE
+## 🤖 VINÍCIUS MATOSO DIAS AI CORE
 
 ```bash
 ╭────────────────────────────╮
@@ -113,7 +113,7 @@ const Vinicius = {
 ```bash
 > Loading objectives...
 
-[██████████] Sistemas de Informação - UFV
+[█████████ ] Sistemas de Informação - UFV
 
 [████████░░] Inteligência Artificial
 
@@ -193,7 +193,7 @@ Never stop learning 🚀
 
 <div align="center">
 
-### 💙 "Transformando lógica em código e código em soluções."
+###  "Transformando lógica em código e código em soluções."
 
 <img src="https://komarev.com/ghpvc/?username=matosod1as&style=for-the-badge&color=22D3EE"/>
 
