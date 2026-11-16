@@ -103,8 +103,7 @@ const Vinicius = {
 | 🎮 [Jogo Caipihead](https://github.com/matosod1as/Jogo-Caipihead-em-Python-) | Jogo com múltiplas fases inspirado em Cuphead |
 | 👗 [E-commerce Django](https://github.com/matosod1as/Projeto-desenvolvido-com-Django-de-um-ecommerce-de-roupas) | Loja de roupas full stack com Django |
 | 💰 Finance App | Controle financeiro em TypeScript |
-| 💈 Barbearia Studio Maldini | Sistema de agendamento em JavaScript |
-| 🌐 [Portfólio](https://matosod1as.github.io) | Página pessoal em HTML/CSS |
+
 
 ---
 
@@ -119,7 +118,6 @@ const Vinicius = {
 
 [███████░░░] Banco de Dados & SQL
 
-[██████░░░░] Desenvolvimento Full Stack
 
 STATUS:
 Never stop learning 🚀
