@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADciusmatoso/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:empviniciusmatoso@gmail.com)
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-24292e?style=for-the-badge&logo=githubpages&logoColor=white)](https://matosod1as.github.io)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-24292e?style=for-the-badge&logo=github&logoColor=white)](https://matosod1as.github.io)
 
 ## Tecnologias
 
